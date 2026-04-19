@@ -1,6 +1,6 @@
 
 # VINAY Says 👋
 
-[Essays](./article)
+[Essays](./articles)
 
 
