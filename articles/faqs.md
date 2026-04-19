@@ -1,19 +1,22 @@
 # FAQ's
 
-**Q. Are my communication skills good enough (ready/sufficient) to start my own business?**
+**Q. What problem does TIRO actually solve?**  
 
-👉🏻 If you can talk to any person who is doing any kind of business of any size, literally any size, then YES ✅, your communication skills are indeed good enough, ready and sufficient.
+👉🏻 Fixed-menu systems decide meals for you. TIRO flips that ❌➡️✅ by letting you choose exactly what you want to eat for the entire week from a curated menu—no compromises, no forced meals.
 
-**Q. Why to deploy your hobby projects?**
+---
 
-👉🏻 Because:
-1. proof of work
-2. transparency (trust)
-3. experience
+**Q. How is TIRO different from regular tiffin/meal services?**  
 
-**Q. What if my hobby project crashed if thousands of people start visiting my website?**
+👉🏻 Traditional services = fixed meals, same for everyone.  
+TIRO = you build your own weekly plan 🧩  
+You get flexibility + structure at the same time.
 
-👉🏻 This is called scaling issue. Check next FAQ to estimate when it occurs and how to fix it.
+---
 
+**Q. Will choosing meals every week make things complicated?**  
 
-
+👉🏻 Not really. TIRO keeps it simple:  
+1. Pick once for the week  
+2. Get meals delivered in a predictable schedule  
+3. Enjoy without daily decision fatigue 😌
