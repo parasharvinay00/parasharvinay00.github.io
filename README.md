@@ -1,6 +1,6 @@
 
-# Says 👋
+# VINAY Says 👋
 
-[Essays](./articles) (26/10/2025)
+[Essays](./article)
 
 
