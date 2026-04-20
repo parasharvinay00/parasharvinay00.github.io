@@ -2,7 +2,7 @@
 [X] Save Vinay-Sahil Meet link on the site itself under sites.
 [X] Some titles I suggest instead of current - “Vinay’s Thoughts”, “Notes by Vinay”, “Vinay’s Updates", "Vinay Says"
 [x] Make this site your home page for all browsers you use currently.
-[ ] Try usig codex via vscode's terminal to update some files to demonstrate using codex with this project to assist yourself.
+[x] Try usig codex via vscode's terminal to update some files to demonstrate using codex with this project to assist yourself.
 [ ] Put useful links on home page:
     - Private Google docs
     - Websites like Google, YouTube, sites you visit all the time.
