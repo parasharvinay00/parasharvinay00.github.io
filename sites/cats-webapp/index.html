@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cats Quick View</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Instrument+Serif:ital@0;1&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <p class="eyebrow">Cat's Webapp</p>
+        <h1>Quick view for adoptable cats with zero friction.</h1>
+        <p class="hero-copy">
+          Scan personality, age, energy level, and compatibility in one place.
+          Open a quick view card without leaving the grid.
+        </p>
+      </header>
+
+      <main class="catalog-layout">
+        <section class="catalog-panel">
+          <div class="section-heading">
+            <div>
+              <p class="section-kicker">Available now</p>
+              <h2>Cat lineup</h2>
+            </div>
+            <p class="section-note">Tap a card or the quick view button.</p>
+          </div>
+
+          <div id="cat-grid" class="cat-grid" aria-label="Cat cards"></div>
+        </section>
+
+        <aside
+          id="quick-view"
+          class="quick-view"
+          aria-live="polite"
+          aria-label="Selected cat details"
+        >
+          <div class="quick-view-inner">
+            <p class="section-kicker">Quick view</p>
+            <h2 id="detail-name">Select a cat</h2>
+            <p id="detail-tagline" class="detail-tagline">
+              Choose any card to see the full profile.
+            </p>
+
+            <div class="detail-visual" id="detail-visual" aria-hidden="true">
+              <span>🐈</span>
+            </div>
+
+            <dl class="detail-stats">
+              <div>
+                <dt>Age</dt>
+                <dd id="detail-age">-</dd>
+              </div>
+              <div>
+                <dt>Energy</dt>
+                <dd id="detail-energy">-</dd>
+              </div>
+              <div>
+                <dt>Best with</dt>
+                <dd id="detail-home">-</dd>
+              </div>
+            </dl>
+
+            <div class="detail-chips" id="detail-chips"></div>
+
+            <p id="detail-description" class="detail-description">
+              Profiles appear here.
+            </p>
+
+            <button id="adopt-button" class="adopt-button" type="button" disabled>
+              Pick a cat first
+            </button>
+          </div>
+        </aside>
+      </main>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
