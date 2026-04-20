@@ -7,7 +7,7 @@
 [ ] Add line flow link (useful until pwa is made).
 [ ] Write article why to learn programming for yourself. (Put what you wrote on notepad that day.)
 [ ] Add audio files and make them playable on site via serving the audio files of a different repository named files.
-[ ] Add learn markdown links to home (Link to my doc and Live Markdown Preview Playground) (live preview editor).
+[ ] Show learn markdown syntax page and the link of playground to live test markdown syntax anytime.
 (Why learn programming- To make TIRO).
 [ ] Add commonly used shortcut - ctrl+alt+t to open terminal in manjaro from anywhere.
 [ ] Add identity based Affirmation - Who is Vinay Parashar? - Founder, CTO at TIRO. Business Consultant & Marketing.
