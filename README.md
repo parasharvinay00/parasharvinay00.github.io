@@ -4,12 +4,9 @@
 
 - Vinay 🙋🏼‍♂️ is Founder & CTO at TIRO. He also does Business Consultant & Marketing.
 
-- [Essays](./articles)
-- 🤖 [Using LLM Models in 5 Points](./articles/using-llm-models)
-
-
 **Sites 🌍**
 
+- [Essays](./articles)
 - [Cats Webapp](./sites/cats-webapp/)
 - [YouTube](https://www.youtube.com/@nebula465-wm6rg)
 - [Lineflow](https://sahilrajput.com/line-flow)
