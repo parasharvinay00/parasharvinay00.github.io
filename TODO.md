@@ -1,4 +1,5 @@
 [ ] 12pm cowork with Vinay.
+[ ] Save Vinay-Sahil Meet link on the site itself under sites.
 [ ] Some titles I suggest instead of current - “Vinay’s Thoughts”, “Notes by Vinay”, “Vinay’s Updates", "Vinay Says"
 [ ] Make this site your home page for all browsers you use currently.
 [ ] Try usig codex via vscode's terminal to update some files to demonstrate using codex with this project to assist yourself.
