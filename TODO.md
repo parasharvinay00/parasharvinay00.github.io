@@ -2,3 +2,4 @@
 [ ] Add audio files and make them playable on site via serving the audio files of a different repository named files.
 [ ] Add jekyll local setup to be able to run site locally and add its comand to run in README.md file.
 [ ] add real pictures of cats on cats webapp
+[ ] Watch https://www.youtube.com/watch?v=R0JKCYZ8hng
