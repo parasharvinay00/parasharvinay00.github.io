@@ -1,7 +1,7 @@
-[ ] 12pm cowork with Vinay.
-[ ] Save Vinay-Sahil Meet link on the site itself under sites.
-[ ] Some titles I suggest instead of current - “Vinay’s Thoughts”, “Notes by Vinay”, “Vinay’s Updates", "Vinay Says"
-[ ] Make this site your home page for all browsers you use currently.
+[X] 12pm cowork with Vinay.
+[X] Save Vinay-Sahil Meet link on the site itself under sites.
+[X] Some titles I suggest instead of current - “Vinay’s Thoughts”, “Notes by Vinay”, “Vinay’s Updates", "Vinay Says"
+[x] Make this site your home page for all browsers you use currently.
 [ ] Try usig codex via vscode's terminal to update some files to demonstrate using codex with this project to assist yourself.
 [ ] Put useful links on home page:
     - Private Google docs
@@ -12,10 +12,10 @@
 [ ] Fill details of Dhyaan and Yoga on home page if you have some info written or plan for it.
 [ ] Move the currently made projects of codex to a folder named sites and link the pgaes from home page under sites section on home page.
 [ ] (Optional) Link to playlist made on youtube and Spotify playlist, etc.
-
+[ ]  (DESIGN CHNAGES) colour correction for the heading 
 
 
 FUTURE
 
 [ ] Add audio files and make them playable on site via serving the audio files of a different repository named files.
-[ ] Add jekyll local setup to be able to run site locally and add its comand to run in READNE.md file.
+[ ] Add jekyll local setup to be able to run site locally and add its comand to run in README.md file.

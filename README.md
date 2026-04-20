@@ -1,4 +1,4 @@
-# VINAY Says 👋
+# V i n a y _ W o r k s 👋
 
 **Who is Vinay Parashar?** 
 
@@ -22,3 +22,5 @@
 **Magic ✨**
 
 - `ctrl+alt+t` to open terminal in Manjaro Linux.
+NOTES :
+0.1 - Terminal > new terminal 
