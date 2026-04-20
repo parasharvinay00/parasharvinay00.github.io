@@ -13,7 +13,7 @@
 [ ] Move the currently made projects of codex to a folder named sites and link the pgaes from home page under sites section on home page.
 [ ] (Optional) Link to playlist made on youtube and Spotify playlist, etc.
 [ ]  (DESIGN CHNAGES) colour correction for the heading 
-
+[ ] https://www.youtube.com/results?search_query=epified+universe+advaita
 
 FUTURE
 
