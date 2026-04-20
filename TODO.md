@@ -1,3 +1,4 @@
+20 APRIL 2026
 [X] 12pm cowork with Vinay.
 [X] Save Vinay-Sahil Meet link on the site itself under sites.
 [X] Some titles I suggest instead of current - “Vinay’s Thoughts”, “Notes by Vinay”, “Vinay’s Updates", "Vinay Says"
