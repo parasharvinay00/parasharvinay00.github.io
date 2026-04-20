@@ -10,6 +10,6 @@ LLM models are useful when you treat them like smart assistants, not magic machi
 
 3. Give context. A model works better when it knows your goal, audience, and constraints.
 
-4. Do not trust every answer blindly. LLMs can sound confident even when they are wrong.
+4. Do not trust every answer blindly. LLMs can sound confident even when they are wrong. 0101010101010
 
 5. Combine human judgment with AI speed. The best results usually come from collaboration, not full automation.
