@@ -28,12 +28,9 @@
 
 **Magic ✨**
 
-- `ctrl+alt+t` to open terminal in Manjaro Linux.
-
-**NOTES**:
-
 1. Terminal > new terminal 
 2. Use ctrl shft + v to paste in codex
+3.`ctrl+alt+t` to open terminal in Manjaro Linux.
 
 <details>
   <summary>Click to expand</summary>
