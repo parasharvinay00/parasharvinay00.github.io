@@ -14,6 +14,7 @@
 - [sahilrajput.com](https://sahilrajput.com/)
     - [Essays](https://sahilrajput.com/articles) ([Code](https://github.com/sahilrajput03/sahilrajput03/tree/main/articles))
     - [Vinay-Sahil Meet](https://meet.google.com/wkv-mskg-xcp)
+- [TIRO - Sample CTA Workflow Final Styled v2 (Figma)](https://www.figma.com/board/xrsj8cPuCspchqcGMi58EI/TIRO---Sample-CTA-Workflow-Final-Styled-v2?node-id=0-1&p=f&t=kJ3CcFiQkvnGhpCB-0)
 
 **Why Dhyaan and Yoga 🧘?**
 
@@ -23,5 +24,13 @@
 **Magic ✨**
 
 - `ctrl+alt+t` to open terminal in Manjaro Linux.
-NOTES :
-0.1 - Terminal > new terminal 
+
+**NOTES**:
+
+1. Terminal > new terminal 
+2. Use ctrl shft + v to paste in codex
+
+<details>
+  <summary>Click to expand</summary>
+  Contents to show when expanded here.
+</details>

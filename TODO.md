@@ -3,7 +3,7 @@
 [X] Some titles I suggest instead of current - “Vinay’s Thoughts”, “Notes by Vinay”, “Vinay’s Updates", "Vinay Says"
 [x] Make this site your home page for all browsers you use currently.
 [x] Try usig codex via vscode's terminal to update some files to demonstrate using codex with this project to assist yourself.
-[ ] Put useful links on home page:
+[x] Put useful links on home page:
     - Private Google docs
     - Websites like Google, YouTube, sites you visit all the time.
 [ ] Write article why to learn programming for yourself. (Put what you wrote on notepad that day.)
@@ -14,7 +14,7 @@
 [ ] (Optional) Link to playlist made on youtube and Spotify playlist, etc.
 [ ]  (DESIGN CHNAGES) colour correction for the heading 
 [ ] https://www.youtube.com/results?search_query=epified+universe+advaita
-
+[ ]
 FUTURE
 
 [ ] Add audio files and make them playable on site via serving the audio files of a different repository named files.
