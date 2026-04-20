@@ -1,4 +1,4 @@
-[ ] 12pm call karunga tab tak ye sab karlena, otherwise 120m hi karenge.
+[ ] 12pm cowork with Vinay.
 [ ] Try usig codex via vscode's terminal to update some files to demonstrate using codex with this project to assist yourself.
 
 [ ] Add jekyll local setup to be able to run site locally and add its comand to run in READNE.md file.
