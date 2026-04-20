@@ -12,5 +12,5 @@
 
 [Using LLM Models in 5 Points](./using-llm-models)
 
-[Why learn programming](./why-learn-promgramming)
+[Why learn programming](./what-is-the-purpose-of-learning-to-program)
 
