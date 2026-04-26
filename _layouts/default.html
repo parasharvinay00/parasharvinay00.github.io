@@ -26,7 +26,8 @@
 
       {{ content }}
 
-      {% if site.github.private != true and site.github.license %}
+      <!-- Learn: I removed `and site.github.license` from below if condition because I don't have or need any license on my site code yet. -->
+      {% if site.github.private != true %}
       <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
         This site is open source. {% github_edit_link "Improve this page" %}.
       </div>
