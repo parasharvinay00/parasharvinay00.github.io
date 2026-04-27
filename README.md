@@ -2,7 +2,7 @@
 
 **Who is Vinay Parashar?** 
 
-- Vinay 🙋🏼‍♂️ is Founder & CTO at TIRO. He also does Business Consultant & Marketing.
+- Vinay 🙋🏼‍♂️ is establishing TIRO ( A CUSTOM FOOD CATERING SERVICE). He is good at building business from scratch. 
 
 **Sites 🌍**
 
@@ -20,8 +20,8 @@
 
 **Why Dhyaan and Yoga 🧘?**
 
-1. ..
-2. ..
+1. It incrreases the essence of life.
+2. It helps me work hard.
 
 **Magic ✨**
 
