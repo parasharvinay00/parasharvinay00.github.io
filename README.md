@@ -8,7 +8,8 @@
 
 - [Essays](./articles)
 - [Cats Webapp](./sites/cats-webapp/)
-- [YouTube](https://www.youtube.com/@nebula465-wm6rg)
+- Learn Javascript: [javascript.info](https://javascript.info), [eloquentjavascript.net](https://eloquentjavascript.net)
+- [Nebula465 - YouTube Channel](https://www.youtube.com/@nebula465-wm6rg)
 - [Lineflow](https://sahilrajput.com/lineflow/)
 - [Our Notes - Google Doc](https://docs.google.com/document/d/1iqGZ6EF6ZuMHzivq9BeNAR3t3l0bHslxnvenIkSzydg/edit?tab=t.0#heading=h.j92rb4xjfh3r)
 - [sahilrajput.com](https://sahilrajput.com/)
