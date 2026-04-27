@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A practical HTML playground that demonstrates many common and advanced HTML tags.">
+  <title>0-codex HTML Playground</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f6f7fb;
+      --panel: #ffffff;
+      --text: #172033;
+      --muted: #5b6478;
+      --border: #d9deea;
+      --accent: #2257d6;
+      --accent-soft: #eaf0ff;
+      --code: #f2f4f8;
+      --shadow: 0 12px 30px rgba(23, 32, 51, 0.08);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.6;
+      color: var(--text);
+      background:
+        radial-gradient(circle at top left, rgba(34, 87, 214, 0.10), transparent 28%),
+        radial-gradient(circle at top right, rgba(34, 87, 214, 0.08), transparent 24%),
+        var(--bg);
+    }
+
+    header, main, footer {
+      width: min(1100px, calc(100% - 2rem));
+      margin: 0 auto;
+    }
+
+    header {
+      padding: 2rem 0 1rem;
+    }
+
+    .hero {
+      background: linear-gradient(135deg, #fff, #f4f7ff);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 1.5rem;
+      box-shadow: var(--shadow);
+    }
+
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      margin-top: 1rem;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: var(--accent);
+      background: var(--accent-soft);
+      border: 1px solid #cfdcff;
+      padding: 0.4rem 0.7rem;
+      border-radius: 999px;
+      font-size: 0.95rem;
+    }
+
+    main {
+      padding: 0 0 2rem;
+    }
+
+    section {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 1.25rem;
+      margin: 1rem 0;
+      box-shadow: var(--shadow);
+    }
+
+    h1, h2, h3 {
+      line-height: 1.2;
+      margin-top: 0;
+    }
+
+    h1 {
+      margin-bottom: 0.4rem;
+      font-size: clamp(2rem, 4vw, 3.5rem);
+    }
+
+    .muted {
+      color: var(--muted);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 1rem;
+    }
+
+    figure {
+      margin: 0;
+      padding: 1rem;
+      background: #fbfcff;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+    }
+
+    figcaption {
+      margin-top: 0.75rem;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    code, kbd, samp, pre {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+    }
+
+    code, kbd, samp {
+      background: var(--code);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.1rem 0.35rem;
+    }
+
+    pre {
+      background: #0f172a;
+      color: #e2e8f0;
+      padding: 1rem;
+      border-radius: 14px;
+      overflow: auto;
+      margin: 1rem 0 0;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      border: 1px solid var(--border);
+      padding: 0.7rem;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      background: #f3f6ff;
+    }
+
+    form {
+      display: grid;
+      gap: 1rem;
+    }
+
+    fieldset {
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1rem;
+    }
+
+    legend {
+      padding: 0 0.4rem;
+      font-weight: 700;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 0.35rem;
+      font-weight: 600;
+    }
+
+    input, select, textarea, button {
+      font: inherit;
+    }
+
+    input, select, textarea {
+      width: 100%;
+      padding: 0.7rem 0.8rem;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      background: #fff;
+    }
+
+    button {
+      border: 0;
+      border-radius: 999px;
+      padding: 0.75rem 1rem;
+      background: var(--accent);
+      color: white;
+      cursor: pointer;
+    }
+
+    details {
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 0.75rem 1rem;
+      background: #fafbff;
+    }
+
+    dialog {
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      box-shadow: var(--shadow);
+      padding: 1rem 1.25rem;
+      max-width: 420px;
+    }
+
+    .tag {
+      display: inline-block;
+      background: #eef3ff;
+      border: 1px solid #d6e2ff;
+      color: #244fc5;
+      padding: 0.15rem 0.5rem;
+      border-radius: 999px;
+      font-size: 0.85rem;
+      vertical-align: middle;
+    }
+
+    footer {
+      padding: 0 0 2rem;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .inline-sample {
+      margin: 0.4rem 0 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="hero">
+      <h1>HTML Playground</h1>
+      <p class="muted">
+        This page demonstrates many HTML tags in one place so you can open it in a browser and inspect how each element behaves.
+      </p>
+      <nav aria-label="Section navigation">
+        <a href="#text">Text</a>
+        <a href="#media">Media</a>
+        <a href="#lists">Lists</a>
+        <a href="#table">Table</a>
+        <a href="#forms">Forms</a>
+        <a href="#interactive">Interactive</a>
+        <a href="#advanced">Advanced</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="text">
+      <h2>Text and Semantic Tags</h2>
+      <p>
+        <strong>Strong</strong>, <em>emphasis</em>, <b>bold</b>, <i>italic</i>, <u>underline</u>,
+        <mark>highlighted text</mark>, <small>small text</small>, <del>deleted text</del>,
+        <ins>inserted text</ins>, <sup>superscript</sup>, <sub>subscript</sub>, and <span class="tag">span</span>.
+      </p>
+      <p class="inline-sample">
+        Abbreviation example: <abbr title="HyperText Markup Language">HTML</abbr>.
+        Keyboard input: <kbd>Ctrl</kbd> + <kbd>S</kbd>.
+        Sample output: <samp>Saved successfully</samp>.
+      </p>
+      <p>
+        Links: <a href="https://developer.mozilla.org/" target="_blank" rel="noopener noreferrer">MDN Web Docs</a>.
+        Time: <time datetime="2026-04-27">April 27, 2026</time>.
+        Data value: <data value="42">forty-two</data>.
+      </p>
+      <blockquote cite="https://www.w3.org/TR/html52/introduction.html">
+        HTML is the language used to structure web pages.
+      </blockquote>
+      <p>
+        Quoted text with <q>inline quotation marks</q>, left-to-right override using <bdo dir="rtl">RTL text sample</bdo>,
+        and word break opportunities in super<wbr>califragilistic<wbr>expialidocious.
+      </p>
+      <p>
+        Ruby annotation: <ruby>漢<rp>(</rp><rt>kan</rt><rp>)</rp>字<rp>(</rp><rt>ji</rt><rp>)</rp></ruby>
+      </p>
+      <hr>
+      <address>
+        Written for learning purposes.<br>
+        Contact: <a href="mailto:someone@example.com">someone@example.com</a>
+      </address>
+    </section>
+
+    <section id="media">
+      <h2>Images, Figures, and SVG</h2>
+      <div class="grid">
+        <figure>
+          <img
+            alt="A simple placeholder illustration"
+            src="data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 360'%3E%3Crect width='640' height='360' fill='%23eaf0ff'/%3E%3Ccircle cx='120' cy='110' r='48' fill='%232257d6' fill-opacity='0.85'/%3E%3Crect x='220' y='80' width='320' height='200' rx='24' fill='%23ffffff' stroke='%23cfd8ea'/%3E%3Cpath d='M250 235l65-72 50 50 42-42 96 102' fill='none' stroke='%232257d6' stroke-width='14' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ctext x='220' y='320' font-family='Arial, sans-serif' font-size='22' fill='%235b6478'%3EInline SVG placeholder%3C/text%3E%3C/svg%3E">
+          <figcaption>
+            <code>&lt;img&gt;</code> inside <code>&lt;figure&gt;</code> with <code>&lt;figcaption&gt;</code>.
+          </figcaption>
+        </figure>
+        <figure>
+          <svg viewBox="0 0 320 220" role="img" aria-label="Decorative SVG example">
+            <rect width="320" height="220" rx="24" fill="#f4f7ff" stroke="#d9deea"></rect>
+            <circle cx="90" cy="110" r="42" fill="#2257d6"></circle>
+            <rect x="160" y="58" width="100" height="30" rx="15" fill="#d6e2ff"></rect>
+            <rect x="160" y="100" width="120" height="18" rx="9" fill="#c7d6ff"></rect>
+            <rect x="160" y="130" width="92" height="18" rx="9" fill="#c7d6ff"></rect>
+            <text x="24" y="198" font-family="Arial, sans-serif" font-size="16" fill="#5b6478">Inline SVG element</text>
+          </svg>
+          <figcaption>
+            Direct <code>&lt;svg&gt;</code> markup.
+          </figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section id="lists">
+      <h2>Lists and Grouping</h2>
+      <div class="grid">
+        <article>
+          <h3>Unordered List</h3>
+          <ul>
+            <li>Apple</li>
+            <li>Banana</li>
+            <li>Cherry</li>
+          </ul>
+        </article>
+        <article>
+          <h3>Ordered List</h3>
+          <ol>
+            <li>Learn the tag</li>
+            <li>Write some HTML</li>
+            <li>Open it in the browser</li>
+          </ol>
+        </article>
+        <article>
+          <h3>Description List</h3>
+          <dl>
+            <dt>HTML</dt>
+            <dd>Structures content.</dd>
+            <dt>CSS</dt>
+            <dd>Styles content.</dd>
+          </dl>
+        </article>
+      </div>
+    </section>
+
+    <section id="table">
+      <h2>Table Example</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Tag</th>
+            <th>Purpose</th>
+            <th>Example</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><code>&lt;table&gt;</code></td>
+            <td>Organizes tabular data.</td>
+            <td>Rows and columns</td>
+          </tr>
+          <tr>
+            <td><code>&lt;thead&gt;</code></td>
+            <td>Groups header rows.</td>
+            <td>Column headings</td>
+          </tr>
+          <tr>
+            <td><code>&lt;tbody&gt;</code></td>
+            <td>Groups main rows.</td>
+            <td>Data rows</td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td colspan="3">Tables can also use <code>&lt;tfoot&gt;</code> for summary rows.</td>
+          </tr>
+        </tfoot>
+      </table>
+    </section>
+
+    <section id="forms">
+      <h2>Form Controls</h2>
+      <form>
+        <fieldset>
+          <legend>Basic inputs</legend>
+          <p>
+            <label for="name">Name</label>
+            <input id="name" name="name" type="text" placeholder="Your name">
+          </p>
+          <p>
+            <label for="email">Email</label>
+            <input id="email" name="email" type="email" placeholder="you@example.com">
+          </p>
+          <p>
+            <label for="password">Password</label>
+            <input id="password" name="password" type="password" placeholder="••••••••">
+          </p>
+        </fieldset>
+
+        <fieldset>
+          <legend>Choice controls</legend>
+          <p>
+            <label for="topic">Topic</label>
+            <select id="topic" name="topic">
+              <option>HTML</option>
+              <option>CSS</option>
+              <option>JavaScript</option>
+            </select>
+          </p>
+          <p>
+            <label for="color">Color</label>
+            <input id="color" name="color" type="color" value="#2257d6">
+          </p>
+          <p>
+            <label for="volume">Volume</label>
+            <input id="volume" name="volume" type="range" min="0" max="100" value="60">
+          </p>
+          <p>
+            <label for="search">Search</label>
+            <input id="search" name="search" type="search" list="suggestions" placeholder="Try HTML">
+            <datalist id="suggestions">
+              <option value="HTML">
+              <option value="CSS">
+              <option value="JavaScript">
+            </datalist>
+          </p>
+        </fieldset>
+
+        <p>
+          <label for="message">Message</label>
+          <textarea id="message" name="message" rows="4" placeholder="Type something here"></textarea>
+        </p>
+        <p>
+          <button type="submit">Submit form</button>
+        </p>
+      </form>
+    </section>
+
+    <section id="interactive">
+      <h2>Interactive Tags</h2>
+      <details>
+        <summary>Click to expand</summary>
+        <p>
+          The <code>&lt;details&gt;</code> element lets users reveal more content on demand.
+        </p>
+      </details>
+
+      <dialog open>
+        <strong>Dialog example</strong>
+        <p class="muted">This dialog is open so you can see the tag rendered without extra scripting.</p>
+      </dialog>
+
+      <p>
+        Progress: <progress value="70" max="100">70%</progress>
+      </p>
+      <p>
+        Meter: <meter min="0" max="100" low="30" high="80" optimum="90" value="64">64%</meter>
+      </p>
+      <p>
+        The following elements are visible examples of inline structure: <span>span</span>, <bdi>123-ABC</bdi>, <wbr>soft wrap point<wbr>.
+      </p>
+    </section>
+
+    <section id="advanced">
+      <h2>Advanced and Structural Tags</h2>
+      <div class="grid">
+        <article>
+          <h3>Semantic Layout</h3>
+          <p>
+            This page uses <code>&lt;header&gt;</code>, <code>&lt;nav&gt;</code>, <code>&lt;main&gt;</code>,
+            <code>&lt;section&gt;</code>, <code>&lt;article&gt;</code>, <code>&lt;aside&gt;</code>, and <code>&lt;footer&gt;</code>.
+          </p>
+        </article>
+        <aside>
+          <h3>Useful Notes</h3>
+          <ul>
+            <li>Use semantic tags to describe meaning, not just appearance.</li>
+            <li>Use <code>&lt;button&gt;</code> for actions and <code>&lt;a&gt;</code> for navigation.</li>
+            <li>Use labels with inputs so forms are accessible.</li>
+          </ul>
+        </aside>
+      </div>
+
+      <pre><code>&lt;article&gt;
+  &lt;h3&gt;Title&lt;/h3&gt;
+  &lt;p&gt;Content goes here.&lt;/p&gt;
+&lt;/article&gt;</code></pre>
+
+      <template>
+        <p>This content is inside a template and does not render until JavaScript clones it.</p>
+      </template>
+
+      <canvas width="400" height="120" style="border:1px solid var(--border); border-radius:14px; width:100%; max-width:400px;">
+        Your browser does not support the canvas element.
+      </canvas>
+
+      <p class="muted">
+        Other tags you may want to explore later include <code>&lt;iframe&gt;</code>, <code>&lt;source&gt;</code>,
+        <code>&lt;picture&gt;</code>, <code>&lt;audio&gt;</code>, <code>&lt;video&gt;</code>, <code>&lt;map&gt;</code>,
+        <code>&lt;object&gt;</code>, and <code>&lt;embed&gt;</code>.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      End of demo page. Open the file in a browser, inspect the source, and change any tag to see how it behaves.
+    </p>
+  </footer>
+</body>
+</html>
