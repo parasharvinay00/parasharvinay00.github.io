@@ -26,9 +26,10 @@
 
 **Magic ✨**
 
-1. Terminal > new terminal 
-2. Use ctrl shft + v to paste in codex
+1. Open terminal in VS Code: Terminal > New terminal 
+2. Use `ctrl+shft+v` to paste in codex
 3. `ctrl+alt+t` to open terminal in Manjaro Linux.
+4. Run Github pages server locally: `bundle exec jekyll serve --livereload --incremental --host=0.0.0.0`
 
 <details>
   <summary>Click to expand</summary>
