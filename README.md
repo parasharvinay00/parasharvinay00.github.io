@@ -8,14 +8,25 @@
 
 - [Essays](./articles)
 - [Cats Webapp](./sites/cats-webapp/)
-- **freeCodeCamp**
-  - [1.html](./sites/fcc/1.html)
 - [YouTube](https://www.youtube.com/@nebula465-wm6rg)
 - [Lineflow](https://sahilrajput.com/lineflow/)
 - [Our Notes - Google Doc](https://docs.google.com/document/d/1iqGZ6EF6ZuMHzivq9BeNAR3t3l0bHslxnvenIkSzydg/edit?tab=t.0#heading=h.j92rb4xjfh3r)
 - [sahilrajput.com](https://sahilrajput.com/)
     - [Essays](https://sahilrajput.com/articles) ([Code](https://github.com/sahilrajput03/sahilrajput03/tree/main/articles))
     - [Vinay-Sahil Meet](https://meet.google.com/wkv-mskg-xcp)
+<ul>
+  <li><strong>freeCodeCamp</strong>
+    <ul>
+      {% for file in site.static_files %}
+        {% if file.path contains 'sites/fcc' and file.extname == '.html' %}
+          <li>
+            <a href="{{ file.path }}">{{ file.name }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </li>
+</ul>
 
 **W O R K S**
 
@@ -38,10 +49,4 @@
   Contents to show when expanded here.
 </details>
 
-<ul>
-{% for file in site.static_files %}
-  {% if file.path contains 'sites/fcc' and file.extname == '.html' %}
-    <li><a href="{{ file.path }}">{{ file.name }}</a></li>
-  {% endif %}
-{% endfor %}
-</ul>
+**FreeCodeCamp:**
