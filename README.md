@@ -8,7 +8,7 @@
 
 - [Essays](./articles)
 - [Cats Webapp](./sites/cats-webapp/)
-- Learn Javascript:
+- ❤️Learn Javascript:
   - [javascript.info](https://javascript.info)
   - [eloquentjavascript.net](https://eloquentjavascript.net)
 - [Nebula465 - YouTube Channel](https://www.youtube.com/@nebula465-wm6rg)
