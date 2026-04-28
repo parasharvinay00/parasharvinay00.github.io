@@ -1,5 +1,13 @@
 # V i n a y _ W o r k s 👋
 
+<!-- This project uses ruby version (checked from vinay's system):
+ruby --version
+# Output: ruby 3.3.0
+
+Note to Sahil: I am using `mise` for version manager of ruby (please check your jekyll notes on how to use `mise`). I am also using same ruby version via mise i.e, 3.3 and its also specified in `mise.toml` as well (this file helps to auto switch as soon as vscode's terminal is opened).
+
+-->
+
 **Who is Vinay Parashar?** 
 
 - Vinay 🙋🏼‍♂️ is establishing TIRO ( A CUSTOM FOOD CATERING SERVICE). He is good at building business from scratch. 
