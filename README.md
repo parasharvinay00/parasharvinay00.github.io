@@ -23,6 +23,8 @@ Note to Sahil: I am using `mise` for version manager of ruby (please check your 
 - Github Repo: [Click here](https://github.com/parasharvinay00/parasharvinay00.github.io) (Soure code of this website)
 - [Lineflow](https://sahilrajput.com/lineflow/)
 - [Our Notes - Google Doc](https://docs.google.com/document/d/1iqGZ6EF6ZuMHzivq9BeNAR3t3l0bHslxnvenIkSzydg/edit?tab=t.0#heading=h.j92rb4xjfh3r)
+- Paul Graham:
+  - [https://www.paulgraham.com/articles.html](https://www.paulgraham.com/articles.html)
 - [sahilrajput.com](https://sahilrajput.com/)
     - [Essays](https://sahilrajput.com/articles) ([Code](https://github.com/sahilrajput03/sahilrajput03/tree/main/articles))
     - [Vinay-Sahil Meet](https://meet.google.com/wkv-mskg-xcp)
