@@ -20,13 +20,13 @@ Note to Sahil: I am using `mise` for version manager of ruby (please check your 
 
 **Sites 🌍**
 
-- [Essays](./articles)
+- [Essays](./articles) ⭐️ 
 - [Cats Webapp](./sites/cats-webapp/)
-- ❤️[fullstackopen.com/en](https://fullstackopen.com/en/)
+- [fullstackopen.com/en](https://fullstackopen.com/en/)
   - [part1](https://fullstackopen.com/en/part1)
-    - 👉🏻👉🏻 [section a - Introduction to React](https://fullstackopen.com/en/part1/introduction_to_react)
-- 🚀Learn Javascript:
-  - [javascript.info](https://javascript.info)
+    - ❤️ [section a - Introduction to React](https://fullstackopen.com/en/part1/introduction_to_react)
+- Learn Javascript:
+  - 🚀 [javascript.info](https://javascript.info)
   - [eloquentjavascript.net](https://eloquentjavascript.net)
 - [Nebula465 - YouTube Channel](https://www.youtube.com/@nebula465-wm6rg)
 - Github Repo: [Click here](https://github.com/parasharvinay00/parasharvinay00.github.io) (Soure code of this website)
