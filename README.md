@@ -71,5 +71,3 @@ Note to Sahil: I am using `mise` for version manager of ruby (please check your 
   <summary>Click to expand</summary>
   Contents to show when expanded here.
 </details>
-
-**FreeCodeCamp:**
