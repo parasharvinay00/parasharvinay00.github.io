@@ -8,4 +8,5 @@
 
 [Why learn programming](./what-is-the-purpose-of-learning-to-program)
 
-[Seeing Clearly](https://sahilrajput.com/lineflow/)
+[Seeing Clearly](./Seeing-Clearly)
+
