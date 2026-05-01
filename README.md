@@ -18,9 +18,17 @@ Note to Sahil: I am using `mise` for version manager of ruby (please check your 
 
 - Vinay 🙋🏼‍♂️ is establishing TIRO ( A CUSTOM FOOD CATERING SERVICE). He is good at building business from scratch. 
 
+<div style="display: flex; justify-content: flex-start; padding-left: 25px; padding-bottom: 20px;">
+  <div>Contact me via</div>
+  <div><a style="padding-left: 5px;" target="_blank" href="mailto:nebula00465@gmail.com">Email</a></div>
+  <div style="padding: 0px 5px;">or</div>
+  <div><a style="padding-right: 5px;" target="_blank" href="https://wa.me/919289610693">WhatsApp</a></div>
+  <!-- TODO: Fix this link by first creating a username of vinay's telegram accont and use that link here. Currently vinay has no username on his telegram account (1 May 2026).-->
+  <!-- <div><a style="padding-left: 5px;" target="_blank" href="https://t.me/USERNAME_HERE">Telegram</a></div>. -->
+</div>
+
 **Sites 🌍**
 
-- [Essays](./articles) ⭐️ 
 - [Cats Webapp](./sites/cats-webapp/)
 - [fullstackopen.com/en](https://fullstackopen.com/en/)
   - [part1](https://fullstackopen.com/en/part1)
