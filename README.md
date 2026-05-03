@@ -35,6 +35,7 @@ Note to Sahil: I am using `mise` for version manager of ruby (please check your 
     - ❤️ [section a - Introduction to React](https://fullstackopen.com/en/part1/introduction_to_react)
 - Learn Javascript:
   - 🚀 [javascript.info](https://javascript.info)
+    - [vital callbacks](https://javascript.info/callbacks)
   - [eloquentjavascript.net](https://eloquentjavascript.net)
 - [Nebula465 - YouTube Channel](https://www.youtube.com/@nebula465-wm6rg)
 - Github Repo: [Click here](https://github.com/parasharvinay00/parasharvinay00.github.io) (Soure code of this website)
