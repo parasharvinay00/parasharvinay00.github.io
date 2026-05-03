@@ -8,5 +8,7 @@
 
 [Why learn programming](./what-is-the-purpose-of-learning-to-program)
 
-[Seeing Clearly](./seeing-clearly) (30 April 2026)
+[Seeing Clearly](./Seeing-Clearly)
 
+
+[State of Connection of Sahil & Vinay](https://docs.google.com/document/d/1iqGZ6EF6ZuMHzivq9BeNAR3t3l0bHslxnvenIkSzydg/edit?tab=t.tt3f0h79lbvg#heading=h.xpwvs0z3l85d) (3 May 2026)
