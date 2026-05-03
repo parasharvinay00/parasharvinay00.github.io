@@ -8,5 +8,5 @@
 
 [Why learn programming](./what-is-the-purpose-of-learning-to-program)
 
-[Seeing Clearly](./Seeing-Clearly)
+[Seeing Clearly](./seeing-clearly) (30 April 2026)
 
