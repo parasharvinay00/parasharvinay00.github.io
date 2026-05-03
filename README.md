@@ -9,7 +9,6 @@ Note to Sahil: I am using `mise` for version manager of ruby (please check your 
 -->
 
 <!-- Comments:
-    - [section b - JavaScript](https://fullstackopen.com/en/part1/java_script)
     - [section c - Component state, event handlers](https://fullstackopen.com/en/part1/component_state_event_handlers)
     - [section d - A more complex state, debugging React apps](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps).
 -->
@@ -33,6 +32,7 @@ Note to Sahil: I am using `mise` for version manager of ruby (please check your 
 - [fullstackopen.com/en](https://fullstackopen.com/en/)
   - [part1](https://fullstackopen.com/en/part1)
     - ❤️ [section a - Introduction to React](https://fullstackopen.com/en/part1/introduction_to_react)
+    - ❤️ [section b - JavaScript](https://fullstackopen.com/en/part1/java_script)
 - Learn Javascript:
   - 🚀 [javascript.info](https://javascript.info)
     - ❤️ [Chapter 11](https://javascript.info/async) (*Topics: Callbacks, Error Handling with Promises, Microtasks, Promise, Promise API, Async/await, Promise chaining, Promisification*)
