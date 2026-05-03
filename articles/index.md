@@ -11,4 +11,4 @@
 [Seeing Clearly](./seeing-clearly) (30 April 2026)
 
 
-[State of Connection of Sahil & Vinay](https://docs.google.com/document/d/1iqGZ6EF6ZuMHzivq9BeNAR3t3l0bHslxnvenIkSzydg/edit?tab=t.tt3f0h79lbvg#heading=h.xpwvs0z3l85d) (3 May 2026)
+[State of Connection of Sahil & Vinay - Google Doc](https://docs.google.com/document/d/1iqGZ6EF6ZuMHzivq9BeNAR3t3l0bHslxnvenIkSzydg/edit?tab=t.tt3f0h79lbvg#heading=h.xpwvs0z3l85d) (3 May 2026)
