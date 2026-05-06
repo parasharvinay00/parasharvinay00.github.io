@@ -66,7 +66,7 @@ Note to Sahil: I am using `mise` for version manager of ruby (please check your 
 
 **Why Dhyaan and Yoga 🧘?**
 
-1. It incrreases the essence of life.
+1. It increases the essence of life.
 2. It helps me work hard.
 
 **Magic ✨**
