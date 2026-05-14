@@ -28,6 +28,7 @@ Note to Sahil: I am using `mise` for version manager of ruby (please check your 
 
 **Sites 🌍**
 
+- [Typing Practice](https://sarkariselection.com/Typing/English-Typing-Test)
 - [Cats Webapp](./sites/cats-webapp/)
 - [fullstackopen.com/en](https://fullstackopen.com/en/)
   - [part1](https://fullstackopen.com/en/part1)
