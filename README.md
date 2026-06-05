@@ -31,10 +31,22 @@ Note to Sahil: I am using `mise` for version manager of ruby (please check your 
 - [Typing Practice](https://sarkariselection.com/Typing/English-Typing-Test)
 - [Cats Webapp](./sites/cats-webapp/)
 - [fullstackopen.com/en](https://fullstackopen.com/en/)
-  - [part1](https://fullstackopen.com/en/part1)
+    - [part0](https://fullstackopen.com/en/part0/general_info)
+    -    [section b - Fundamentals of Web apps](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
+    - [part1](https://fullstackopen.com/en/part1)
     - ❤️ [section a - Introduction to React](https://fullstackopen.com/en/part1/introduction_to_react)
     - ❤️ [section b - JavaScript](https://fullstackopen.com/en/part1/java_script)
-- Learn Javascript:
+    -    [section c - Component State,Event handlers](https://fullstackopen.com/en/part1/component_state_event_handlers)
+    -    [section d - Altering data in Server](https://fullstackopen.com/en/part2/altering_data_in_server)
+    -    [exercise  - 1.6.-1.14.](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#exercises-1-6-1-14)
+    - [part2](https://fullstackopen.com/en/part2)
+    -    [section a - Rendering a collection, modules](https://fullstackopen.com/en/part2/rendering_a_collection_modules)
+    -    [section b - Forms](https://fullstackopen.com/en/part2/forms)
+    -    [section c - Getting data from server](https://fullstackopen.com/en/part2/getting_data_from_server)
+    - *  [section d - Altering data in server](https://fullstackopen.com/en/part2/altering_data_in_server)
+
+ 
+  -Learn Javascript:
   - 🚀 [javascript.info](https://javascript.info)
     - ❤️ [Chapter 11](https://javascript.info/async) (*Topics: Callbacks, Error Handling with Promises, Microtasks, Promise, Promise API, Async/await, Promise chaining, Promisification*)
   - [eloquentjavascript.net](https://eloquentjavascript.net)
