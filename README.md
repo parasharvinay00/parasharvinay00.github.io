@@ -91,8 +91,6 @@ Note to Sahil: I am using `mise` for version manager of ruby (please check your 
   Contents to show when expanded here.
 </details>
 
-## Sample CSS Usage
-
 <div class="sample-highlight" style="margin-top: 30px; text-align: center;">
   Thank you 🙂
 </div>
