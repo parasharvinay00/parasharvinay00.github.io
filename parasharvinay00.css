@@ -1,0 +1,110 @@
+/* Reset basic browser spacing and box model */ 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Main page */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f6f8fb;
+  color: #1f2937;
+  line-height: 1.6;
+}
+
+/* Page container */
+body > * {
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Header text */
+body > p:first-child {
+  margin-top: 32px;
+  color: #9ca3af;
+  font-size: 14px;
+}
+
+/* Navigation */
+a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  color: #1d4ed8;
+  text-decoration: underline;
+}
+
+/* Main title */
+h1 {
+  margin-top: 28px;
+  font-size: 42px;
+  letter-spacing: 10px;
+  color: #064e3b;
+  border-bottom: 1px solid #e5e7eb;
+  padding-bottom: 14px;
+}
+
+/* Section headings */
+h2,
+h3 {
+  margin-top: 28px;
+  margin-bottom: 12px;
+  color: #111827;
+}
+
+/* Paragraphs */
+p {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+/* Lists */
+ul {
+  margin-top: 12px;
+  margin-left: 32px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+/* Main content card effect */
+h1,
+h2,
+h3,
+p,
+ul {
+  max-width: 900px;
+}
+
+/* Soft card around main content */
+body {
+  padding: 0 20px 60px;
+}
+
+/* Better spacing for nested lists */
+ul ul {
+  margin-top: 6px;
+  margin-left: 26px;
+}
+
+/* Mobile responsive */
+@media (max-width: 600px) {
+  h1 {
+    font-size: 30px;
+    letter-spacing: 5px;
+  }
+
+  body {
+    padding: 0 16px 40px;
+  }
+
+  ul {
+    margin-left: 22px;
+  }
+}
