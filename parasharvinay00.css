@@ -93,6 +93,14 @@ ul ul {
   margin-left: 26px;
 }
 
+/* Sample reusable utility */
+.sample-highlight {
+  background-color: #fef3c7;
+  border: 1px solid #f59e0b;
+  border-radius: 6px;
+  padding: 8px 12px;
+}
+
 /* Mobile responsive */
 @media (max-width: 600px) {
   h1 {
