@@ -32,24 +32,21 @@ Note to Sahil: I am using `mise` for version manager of ruby (please check your 
 - [Cats Webapp](./sites/cats-webapp/)
 - [fullstackopen.com/en](https://fullstackopen.com/en/)
     - [part0](https://fullstackopen.com/en/part0/general_info)
-    -    [section b - Fundamentals of Web apps](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
+      - [section b - Fundamentals of Web apps](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
     - [part1](https://fullstackopen.com/en/part1)
-    - ❤️ [section a - Introduction to React](https://fullstackopen.com/en/part1/introduction_to_react)
-    - ❤️ [section b - JavaScript](https://fullstackopen.com/en/part1/java_script)
-    -    [section c - Component State,Event handlers](https://fullstackopen.com/en/part1/component_state_event_handlers)
-    -    [section d - Altering data in Server](https://fullstackopen.com/en/part2/altering_data_in_server)
-    -    [exercise  - 1.6.-1.14.](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#exercises-1-6-1-14)
+      - ❤️ [section a - Introduction to React](https://fullstackopen.com/en/part1/introduction_to_react)
+      - ❤️ [section b - JavaScript](https://fullstackopen.com/en/part1/java_script)
+      - [section c - Component State,Event handlers](https://fullstackopen.com/en/part1/component_state_event_handlers)
+      - [exercise  - 1.6.-1.14.](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#exercises-1-6-1-14)
     - [part2](https://fullstackopen.com/en/part2)
-    -    [section a - Rendering a collection, modules](https://fullstackopen.com/en/part2/rendering_a_collection_modules)
-    -    [section b - Forms](https://fullstackopen.com/en/part2/forms)
-    -    [section c - Getting data from server](https://fullstackopen.com/en/part2/getting_data_from_server)
-    - *  [section d - Altering data in server](https://fullstackopen.com/en/part2/altering_data_in_server)
-
- 
-  -Learn Javascript:
-  - 🚀 [javascript.info](https://javascript.info)
-    - ❤️ [Chapter 11](https://javascript.info/async) (*Topics: Callbacks, Error Handling with Promises, Microtasks, Promise, Promise API, Async/await, Promise chaining, Promisification*)
-  - [eloquentjavascript.net](https://eloquentjavascript.net)
+      - [section a - Rendering a collection, modules](https://fullstackopen.com/en/part2/rendering_a_collection_modules)
+      - [section b - Forms](https://fullstackopen.com/en/part2/forms)
+      - [section c - Getting data from server](https://fullstackopen.com/en/part2/getting_data_from_server)
+      - [section d - Altering data in server](https://fullstackopen.com/en/part2/altering_data_in_server)
+  - Learn Javascript:
+    - 🚀 [javascript.info](https://javascript.info)
+      - ❤️ [Chapter 11](https://javascript.info/async) (*Topics: Callbacks, Error Handling    with Promises, Microtasks, Promise, Promise API, Async/await, Promise chaining, Promisification*)
+    - [eloquentjavascript.net](https://eloquentjavascript.net)
 - [Nebula465 - YouTube Channel](https://www.youtube.com/@nebula465-wm6rg)
 - Github Repo: [Click here](https://github.com/parasharvinay00/parasharvinay00.github.io) (Soure code of this website)
 - [Lineflow](https://sahilrajput.com/lineflow/)
@@ -93,3 +90,4 @@ Note to Sahil: I am using `mise` for version manager of ruby (please check your 
   <summary>Click to expand</summary>
   Contents to show when expanded here.
 </details>
+
