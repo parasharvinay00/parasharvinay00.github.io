@@ -91,7 +91,7 @@ Note to Sahil: I am using `mise` for version manager of ruby (please check your 
   Contents to show when expanded here.
 </details>
 
-<div class="sample-highlight" style="margin-top: 30px; text-align: center;">
+<div class="sample-highlight" style="margin-top: 30px; text-align: center; width: fit-content; margin: auto; padding: 8px 28px">
   Thank you 🙂
 </div>
 
