@@ -12,4 +12,4 @@
 
 [Sahil & Vinay - SOC (State of Connection - Google Doc (Private)](https://docs.google.com/document/d/1iqGZ6EF6ZuMHzivq9BeNAR3t3l0bHslxnvenIkSzydg/edit?tab=t.tt3f0h79lbvg#heading=h.xpwvs0z3l85d) (3 May 2026)
 
-[Rest](./Understanding-rest-api)  (8 June 2026)
+[Understanding REST](./rest) (8 June 2026)

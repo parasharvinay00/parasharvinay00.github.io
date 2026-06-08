@@ -1,3 +1,8 @@
+---
+layout: page
+title: Understanding REST
+---
+
 # Understanding Rest
 
 A REST API is a way for a client and a server to communicate over the internet. It uses HTTP methods, URLs, and data formats like JSON to send and receive information.
