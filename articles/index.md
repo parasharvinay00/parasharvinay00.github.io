@@ -1,15 +1,8 @@
 # Essays 👋
 
-[Fixed menu problem](./fixed-menu-problem) (19 April 2025)
-
-[FAQs](./faqs) (19 April 2026)
-
-[Learn Markdown](https://docs.google.com/document/d/1R8aAe8MvdabvqQhe-6B4C8phR_-O7PFtjl6amaT9ynQ/edit?tab=t.0#heading=h.eimnxlcp20m7), [Playground](https://marked.js.org/demo/)
-
-[Why learn programming](./what-is-the-purpose-of-learning-to-program)
-
-[Seeing Clearly](./seeing-clearly) (30 April 2026)
-
-[Sahil & Vinay - SOC (State of Connection - Google Doc (Private)](https://docs.google.com/document/d/1iqGZ6EF6ZuMHzivq9BeNAR3t3l0bHslxnvenIkSzydg/edit?tab=t.tt3f0h79lbvg#heading=h.xpwvs0z3l85d) (3 May 2026)
-
-[Understanding REST](./rest) (8 June 2026)
+<!-- - [Fixed menu problem](./fixed-menu-problem) (19 April 2025) -->
+<!-- - [FAQs](./faqs) (19 April 2026) -->
+- [Learn Markdown](https://docs.google.com/document/d/1R8aAe8MvdabvqQhe-6B4C8phR_-O7PFtjl6amaT9ynQ/edit?tab=t.0#heading=h.eimnxlcp20m7), [Playground](https://marked.js.org/demo/)
+- [Why learn programming](./what-is-the-purpose-of-learning-to-program)
+- [Seeing Clearly](./seeing-clearly) (30 April 2026)
+- [Understanding REST](./rest) (8 June 2026)
