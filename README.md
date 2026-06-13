@@ -48,6 +48,7 @@ Note to Sahil: I am using `mise` for version manager of ruby (please check your 
       - ❤️ [Chapter 11](https://javascript.info/async) (*Topics: Callbacks, Error Handling    with Promises, Microtasks, Promise, Promise API, Async/await, Promise chaining, Promisification*)
     - [eloquentjavascript.net](https://eloquentjavascript.net)
 - [Nebula465 - YouTube Channel](https://www.youtube.com/@nebula465-wm6rg)
+- [QR](qr)
 - Github Repo: [Click here](https://github.com/parasharvinay00/parasharvinay00.github.io) (Soure code of this website)
 - [Lineflow](https://sahilrajput.com/lineflow/)
 - [Our Notes - Google Doc](https://docs.google.com/document/d/1iqGZ6EF6ZuMHzivq9BeNAR3t3l0bHslxnvenIkSzydg/edit?tab=t.0#heading=h.j92rb4xjfh3r)
