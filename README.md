@@ -44,6 +44,7 @@ Note to Sahil: I am using `mise` for version manager of ruby (please check your 
       - [section c - Getting data from server](https://fullstackopen.com/en/part2/getting_data_from_server)
       - [section d - Altering data in server](https://fullstackopen.com/en/part2/altering_data_in_server)
       - [Exercise  - 2.12 - 2.15](https://fullstackopen.com/en/part2/altering_data_in_server#exercises-2-12-2-15)
+      - [section e - Adding styles to React app](https://fullstackopen.com/en/part2/adding_styles_to_react_app)
   - Learn Javascript:
     - 🚀 [javascript.info](https://javascript.info)
       - ❤️ [Chapter 11](https://javascript.info/async) (*Topics: Callbacks, Error Handling    with Promises, Microtasks, Promise, Promise API, Async/await, Promise chaining, Promisification*)
