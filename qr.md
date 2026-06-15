@@ -1,8 +1,10 @@
 # 🥘 ☕️ ❤️ 🎂 👨🏻‍💻
--[Click here to explore QR food ordering system](https://mypot.in/listing/68541d5fb56dc174391a3354)
+
 I'm **Vinay Parashar.**
 
 Helping businesses digitize menus, pricing, and information through QR Solutions.
+
+-[Click here to explore QR food ordering system](https://mypot.in/listing/68541d5fb56dc174391a3354)
 
 Contact me to learn more.
 
